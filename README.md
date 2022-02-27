@@ -1,36 +1,26 @@
-# **bold textKep1er Memebers Profile**
+# Kep1er Memebers Profile
 Owned by rjymmanoel
 
-![alt text](https://imgnews.pstatic.net/image/433/2022/02/26/0000080232_001_20220226100108912.jpeg)
+![alt text](https://kpopping.com/documents/10/1/800/220226-Kep1er-Debut-Album-FIRST-IMPACT-Promotion-Photoshoot-by-Dispatch-documents-3.jpeg)
 
-### Markdown
+**Kep1er** (pronounced as Kepler) is a 9 member girl group formed through the survival show Girls Planet 999. The group consists of **Yujin**, **Mashiro**, **Xiaoting**, **Chaehyun**, **Dayeon**, **Hikaru**, **Huening Bahiyyih**, **Youngeun**, and **Yeseo**. The group is managed by WAKEONE ENTERTAINMENT and Swing ENtertainment and will promote for 2 years and 6 months following their debut date. The group offcially debuted on January 3, 2022 with their first mini-album “FIRST IMPACT with the title track *WA DA DA*. Their fnadom name is **Kep1ian** (pronounced as Keplian)    
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Members Profile:
 
-```markdown
-Syntax highlighted code block
+![alt text](https://kpopping.com/documents/5a/1/800/220226-Kep1er-Yujin-Debut-Album-FIRST-IMPACT-Promotion-Photoshoot-by-Dispatch-documents-5.jpeg)
 
-# Header 1
-## Header 2
-### Header 3
+![alt text](https://kpopping.com/documents/d0/5/800/220226-Kep1er-Mashiro-Debut-Album-FIRST-IMPACT-Promotion-Photoshoot-by-Dispatch-documents-1.jpeg)
 
-- Bulleted
-- List
+![alt text](https://kpopping.com/documents/e4/2/800/220226-Kep1er-Xiaoting-Debut-Album-FIRST-IMPACT-Promotion-Photoshoot-by-Dispatch-documents-4.jpeg)
 
-1. Numbered
-2. List
+![alt text](https://kpopping.com/documents/43/1/800/220226-Kep1er-Chaehyun-Debut-Album-FIRST-IMPACT-Promotion-Photoshoot-by-Dispatch-documents-5.jpeg)
 
-**Bold** and _Italic_ and `Code` text
+![alt text](https://kpopping.com/documents/e6/1/800/220226-Kep1er-Dayeon-Debut-Album-FIRST-IMPACT-Promotion-Photoshoot-by-Dispatch-documents-2.jpeg)
 
-[Link](url) and ![Image](src)
-```
+![alt text](
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![alt text](
 
-### Jekyll Themes
+![alt text](https://kpopping.com/documents/00/1/800/220226-Kep1er-Youngeun-Debut-Album-FIRST-IMPACT-Promotion-Photoshoot-by-Dispatch-documents-5.jpeg)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rjymmanoel/rjymmanoel.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![alt text](
