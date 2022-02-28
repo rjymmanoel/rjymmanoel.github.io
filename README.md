@@ -98,5 +98,5 @@ Owned by rjymmanoel
 - Position:-
 - She was born on: August 22, 2005 in Incheon, South Korea.
 - Nationality: South Korean
-- She is a member of **CutieL** and **Busters Beta**.
+- She was a member of **CutieL** and **Busters Beta**.
 - She trained for 10 years (including her time in CutieL and Busters Beta)
