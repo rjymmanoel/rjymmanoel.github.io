@@ -3,7 +3,7 @@ Owned by rjymmanoel
 
 ![alt text](https://kpopping.com/documents/3b/1/800/220226-Kep1er-Debut-Album-FIRST-IMPACT-Promotion-Photoshoot-by-Dispatch-documents-1.jpeg)
 
-**Kep1er** (pronounced as Kepler) is a 9 member girl group formed through the survival show Girls Planet 999. The group consists of **Yujin**, **Mashiro**, **Xiaoting**, **Chaehyun**, **Dayeon**, **Hikaru**, **Huening Bahiyyih**, **Youngeun**, and **Yeseo**. The group is managed by WAKEONE ENTERTAINMENT and Swing Entertainment and will promote for 2 years and 6 months following their debut date. The group offcially debuted on January 3, 2022 with their first mini-album “FIRST IMPACT with the title track *WA DA DA*. Their fandom name is **Kep1ian** (pronounced as Keplian)    
+**Kep1er** (pronounced as Kepler) is a 9 member girl group formed through the survival show Girls Planet 999. The group consists of **Yujin**, **Mashiro**, **Xiaoting**, **Chaehyun**, **Dayeon**, **Hikaru**, **Huening Bahiyyih**, **Youngeun**, and **Yeseo**. The group is managed by WAKEONE ENTERTAINMENT and Swing Entertainment and will promote for 2 years and 6 months following their debut date. The group officially debuted on January 3, 2022 with their first mini-album “FIRST IMPACT with the title track *WA DA DA*. Their fandom name is **Kep1ian** (pronounced as Keplian)    
 
 ### Members Profile:
 
